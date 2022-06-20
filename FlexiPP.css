@@ -145,6 +145,10 @@ div#errorIconDiv {
     outline: 0;
     box-shadow: none;
 }
+.formInput.secondary:focus{
+    outline: 0;
+    box-shadow: none;
+}
 #cscDescLink {
 
 }
@@ -256,6 +260,7 @@ input[type="submit"].newCardButton::-moz-focus-inner {
 }
 .linkText {
     margin: 16px;
+    text-decoration: underline;
 }
 a,
 a:hover,
@@ -345,9 +350,9 @@ a:visited {
     -webkit-appearance: none;
 }
 .secondary {
-    color: #085da9;
+    color: #96075a;
     background-color: white;
-    border: 1px solid #085da9;
+    border: 1px solid #96075a;
     -moz-appearance: none;
     -webkit-appearance: none;
 }
