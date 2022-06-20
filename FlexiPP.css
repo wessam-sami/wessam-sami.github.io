@@ -140,6 +140,11 @@ div#errorIconDiv {
     background-color: #FFFFFF;
     font-family: 'VodafoneRg';
 }
+
+.formInput.primary:focus{
+    outline: 0;
+    box-shadow: none;
+}
 #cscDescLink {
 
 }
