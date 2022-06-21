@@ -260,7 +260,6 @@ input[type="submit"].newCardButton::-moz-focus-inner {
 }
 .linkText {
     margin: 16px;
-    text-decoration: underline;
 }
 a,
 a:hover,
