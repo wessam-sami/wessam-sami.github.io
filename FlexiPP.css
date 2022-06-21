@@ -467,7 +467,7 @@ a:visited {
     padding-top: 1em;
 }
 select { 
-      -webkit-appearance: menulist;
+      -webkit-appearance: none;
 }
 #overlay {
     display: none;
