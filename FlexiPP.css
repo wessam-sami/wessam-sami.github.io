@@ -466,9 +466,11 @@ a:visited {
     background-color: white;
     padding-top: 1em;
 }
-select { 
-      -webkit-appearance: none;
-}
+ input:focus{
+    border: 1px solid #1670BE;
+    outline-offset: 0px;
+    outline: none;
+} 
 #overlay {
     display: none;
     opacity: 0.4;
