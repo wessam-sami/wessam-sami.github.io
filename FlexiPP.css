@@ -145,10 +145,6 @@ div#errorIconDiv {
     outline: 0;
     box-shadow: none;
 }
-.formInput.secondary:focus{
-    outline: 0;
-    box-shadow: none;
-}
 #cscDescLink {
 
 }
@@ -349,9 +345,9 @@ a:visited {
     -webkit-appearance: none;
 }
 .secondary {
-    color: #96075a;
+    color: #085da9;
     background-color: white;
-    border: 1px solid #96075a;
+    border: 1px solid #085da9;
     -moz-appearance: none;
     -webkit-appearance: none;
 }
