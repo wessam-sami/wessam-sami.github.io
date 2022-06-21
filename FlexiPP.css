@@ -466,11 +466,11 @@ a:visited {
     background-color: white;
     padding-top: 1em;
 }
- input:focus{
-    border: 1px solid red;
+input:active, input:focus{
+    border: 1px solid #red;
     outline-offset: 0px;
     outline: none;
-} 
+}
 #overlay {
     display: none;
     opacity: 0.4;
