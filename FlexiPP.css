@@ -468,7 +468,6 @@ a:visited {
 }
 select, option{
     -moz-appearance: none;
-    -webkit-appearance: none;
 }
 #overlay {
     display: none;
