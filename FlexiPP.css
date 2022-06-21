@@ -466,8 +466,10 @@ a:visited {
     background-color: white;
     padding-top: 1em;
 }
-select, option{
-    -moz-appearance: none;
+select { 
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
 }
 #overlay {
     display: none;
