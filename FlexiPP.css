@@ -449,7 +449,7 @@ a:visited {
     margin: 0.4em auto;
 }
 .wait {
-    /* display: none; */
+    display: none;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -465,6 +465,9 @@ a:visited {
     height: 4em;
     background-color: white;
     padding-top: 1em;
+}
+select, option{
+    appearance: menulist;
 }
 #overlay {
     display: none;
